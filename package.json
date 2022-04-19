@@ -1,0 +1,11 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Benedicta Montana Arkoh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
+}
